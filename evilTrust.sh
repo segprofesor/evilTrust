@@ -2,6 +2,7 @@
 
 # evilTrust v2.0, Author @s4vitar (Marcelo Vázquez)
 # Actualizado por Jose Pablo
+# Fecha actualizacion 13/03/2023
 
 #Colours
 greenColour="\e[0;32m\033[1m"
